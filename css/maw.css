@@ -1,0 +1,12 @@
+/*
+	CSS for WordPress Multi-Author Widget Plugin
+*/
+
+/* wrapper class */
+.multi-author-widget {}
+	.multi-author-wiget ul { margin: 0; padding: 0; list-style: none; }
+	.multi-author-widget ul li ul { padding: 0; margin: 0;}
+	.multi-author-widget .maw-author-head { clear: both; width: 195px; height: 40px; border-bottom: solid 1px #F1F1F1; margin-bottom: 5px; }
+	.multi-author-widget .maw-author-head .maw-author-img { float: right; width: 32px; height: 32px; margin-left: 10px; border: solid 2px #f1f1f1; }
+	.multi-author-widget .maw-author-head .maw-author-name { font-size: 20px; float: left; padding-top: 10px; }
+	
